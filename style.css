@@ -1,0 +1,26 @@
+
+body {
+    background-color: #E5FDD1;
+}
+
+hr{
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    height: 200px;
+}
+
+h1{
+    color: #FCC2FC;
+}
+h3{
+    color: #FCC2FC;
+}
+p{color: navy;font-family: cursive;}
+
+
+h2{color: mediumvioletred;}
